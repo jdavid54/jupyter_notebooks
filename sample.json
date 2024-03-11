@@ -7,16 +7,16 @@
     "moon_phase": 0,
     "temp": {
         "day": 10.32,
-        "min": 7.26,
+        "min": 6.85,
         "max": 11.47,
-        "night": 7.53,
-        "eve": 9.21,
+        "night": 6.85,
+        "eve": 10.51,
         "morn": 7.47
     },
     "feels_like": {
         "day": 9.24,
-        "night": 6.58,
-        "eve": 9.21,
+        "night": 5.8,
+        "eve": 9.39,
         "morn": 7.47
     },
     "pressure": 995,
