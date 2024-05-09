@@ -1,16 +1,16 @@
 ,1
-dt,05/05/2024
-sunrise,06:23:01
-sunset,21:11:27
-moonrise,05:11:00
-moonset,17:58:00
-moon_phase,0.9
-pressure,1011
-humidity,65
-dew_point,9.34
-wind_speed,3.95
-wind_deg,225
-wind_gust,7.79
-pop,1.0
-rain,1.53
-uvi,3.49
+dt,2024-05-09 13:00:00
+sunrise,2024-05-09 06:16:54
+sunset,2024-05-09 21:17:12
+moonrise,2024-05-09 06:36:00
+moonset,2024-05-09 23:42:00
+moon_phase,0.05
+pressure,1026
+humidity,49
+dew_point,8.84
+wind_speed,4.18
+wind_deg,71
+wind_gust,9.1
+pop,0
+uvi,6.55
+rain,

@@ -1,40 +1,39 @@
 {
-    "dt": 1714820400,
-    "sunrise": 1714796677,
-    "sunset": 1714849800,
-    "moonrise": 1714791300,
-    "moonset": 1714833120,
-    "moon_phase": 0.86,
+    "dt": 1715166000,
+    "sunrise": 1715141903,
+    "sunset": 1715195747,
+    "moonrise": 1715141220,
+    "moonset": 1715199540,
+    "moon_phase": 0,
     "temp": {
-        "day": 15.38,
-        "min": 7.97,
-        "max": 15.38,
-        "night": 12.22,
-        "eve": 12.93,
-        "morn": 7.97
+        "day": 18.54,
+        "min": 9.19,
+        "max": 20.45,
+        "night": 13.4,
+        "eve": 18.36,
+        "morn": 9.19
     },
     "feels_like": {
-        "day": 14.31,
-        "night": 11.53,
-        "eve": 12.05,
-        "morn": 6.58
+        "day": 17.73,
+        "night": 12.68,
+        "eve": 17.61,
+        "morn": 7.95
     },
-    "pressure": 1012,
-    "humidity": 51,
-    "dew_point": 5.16,
-    "wind_speed": 4.17,
-    "wind_deg": 155,
-    "wind_gust": 7.15,
+    "pressure": 1027,
+    "humidity": 49,
+    "dew_point": 7.47,
+    "wind_speed": 5.18,
+    "wind_deg": 26,
+    "wind_gust": 10.26,
     "weather": [
         {
-            "id": 500,
-            "main": "Rain",
-            "description": "light rain",
-            "icon": "10d"
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
         }
     ],
-    "clouds": 48,
-    "pop": 0.79,
-    "rain": 1.11,
-    "uvi": 4.33
+    "clouds": 0,
+    "pop": 0,
+    "uvi": 6.01
 }
