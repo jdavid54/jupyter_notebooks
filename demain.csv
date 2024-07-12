@@ -1,16 +1,16 @@
 ,1
-dt,2024-07-09 13:00:00
-sunrise,2024-07-09 05:57:26
-sunset,2024-07-09 21:53:54
-moonrise,2024-07-09 09:26:00
-moonset,1970-01-01 01:00:00
-moon_phase,0.11
-pressure,1012
-humidity,55
-dew_point,15.47
-wind_speed,4.98
-wind_deg,232
-wind_gust,9.64
+dt,2024-07-13 13:00:00
+sunrise,2024-07-13 06:01:16
+sunset,2024-07-13 21:51:05
+moonrise,2024-07-13 13:57:00
+moonset,2024-07-13 00:43:00
+moon_phase,0.23
+pressure,1015
+humidity,53
+dew_point,10.66
+wind_speed,2.92
+wind_deg,296
+wind_gust,4.99
 pop,1.0
-rain,2.33
-uvi,5.54
+rain,1.85
+uvi,6.06
