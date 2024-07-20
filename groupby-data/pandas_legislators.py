@@ -8,8 +8,10 @@ dtypes = {
     "party": "category",
 }
 df = pd.read_csv(
-    "groupby-data/legislators-historical.csv",
+    "legislators-historical.csv",
     dtype=dtypes,
     usecols=list(dtypes) + ["birthday", "last_name"],
     parse_dates=["birthday"]
 )
+
+print(df)
