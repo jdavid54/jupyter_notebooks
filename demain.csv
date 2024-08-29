@@ -1,15 +1,16 @@
 ,1
-dt,28/08
-sunrise,07:02
-sunset,20:41
-moonrise,00:26
-moonset,18:12
-moon_phase,0.82
-pressure,1014
-humidity,40
-dew_point,12.84
-wind_speed,3.77
-wind_deg,211
-wind_gust,5.28
-pop,0.0
-uvi,5.86
+dt,2024-08-30 13:00:00
+sunrise,2024-08-30 07:05:07
+sunset,2024-08-30 20:37:37
+moonrise,2024-08-30 02:31:00
+moonset,2024-08-30 19:34:00
+moon_phase,0.88
+pressure,1019
+humidity,73
+dew_point,15.75
+wind_speed,3.89
+wind_deg,18
+wind_gust,8.16
+pop,1.0
+uvi,1.12
+rain,2.16
