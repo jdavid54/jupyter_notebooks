@@ -1,9 +1,9 @@
 ,1
-dt,2024-08-30 13:00:00
-sunrise,2024-08-30 07:05:07
-sunset,2024-08-30 20:37:37
-moonrise,2024-08-30 02:31:00
-moonset,2024-08-30 19:34:00
+dt,30/08
+sunrise,07:05
+sunset,20:37
+moonrise,02:31
+moonset,19:34
 moon_phase,0.88
 pressure,1019
 humidity,73
@@ -13,4 +13,3 @@ wind_deg,18
 wind_gust,8.16
 pop,1.0
 uvi,1.12
-rain,2.16
